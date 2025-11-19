@@ -1,7 +1,7 @@
-A **variable in VS Code** is not something special created by VS Code itself.
-A *variable* is simply a **name that stores a value** in any programming language (like Python, JavaScript, C++, etc.). VS Code is just the editor where you *write* that code.
+A "variable in VS Code" is not something special created by VS Code itself.
+A "variable" is simply a "name that stores a value" in any programming language (like Python, JavaScript, C++, etc.). VS Code is just the editor where you *write* that code.
 
-**What is a variable in VS Code?**
+"What is a variable in VS Code?"
 
 A variable is a container that holds data such as numbers, text, or other information.
 Example (Python):
@@ -11,9 +11,9 @@ name = "Alex"
 age = 20
 ```
 
-Here, **name** and **age** are variables.
+Here, "name" and "age" are variables.
 
-**Why is a variable important?**
+"Why is a variable important?"
 
 Variables are important because they allow you to:
 
@@ -24,17 +24,17 @@ Variables are important because they allow you to:
 
 Without variables, programming would be extremely limited and repetitive.
 
-**Is a variable always used in VS Code?**
+"Is a variable always used in VS Code?"
 
 Not always.
 Variables are used when writing programs in languages that require them.
 If you’re only editing text, writing Markdown, or configuring settings, you may not use variables.
 
-**Is it important for you?**
+"Is it important for you?"
 
 Yes—if you plan to learn programming.
 Understanding variables is one of the most basic and essential skills in coding.
 If you want to write code, build apps, automate tasks, or learn any programming language, you will definitely need variables.
 
-**In short:**
+"In short:"
 Variables are essential for programming, and VS Code is a place where you write code that uses them. Understanding them will help you grow as a developer.
