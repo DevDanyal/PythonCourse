@@ -1,0 +1,24 @@
+#VariableNaming 
+#meaningful
+
+house_number =  5
+price = 100.50
+potato_price = 100.00
+tomato_price = 100.00
+
+#Capitalize each word => Pascal Case
+#camelCase
+# houseNumber
+#snake_case = house_number
+
+# print("My name is Abdul Wahab")
+
+# addition = 5 + 2 + 4
+# print(round(addition))
+
+age: int = 15
+
+print(type(age))
+
+print(type(age))
+
