@@ -1,0 +1,21 @@
+apple1 = 100
+apple3 = 900
+
+add_apples = apple1 + apple3
+print(add_apples)
+
+
+writing_1 = True
+print(type(writing_1))
+
+number = 55
+print(type(number))
+
+name = "arfan"
+print(type(name))
+
+classwork = True
+print(type(classwork))
+
+fraction = 19.9
+print(type(fraction))
