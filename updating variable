@@ -1,0 +1,9 @@
+# age = 50
+# age /= 5
+
+# print(age)
+sent_balance = int(input("Enter Amount To send: "))
+bank_balance = 15000
+bank_balance += sent_balance
+
+print(bank_balance)
