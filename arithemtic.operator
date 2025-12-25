@@ -1,0 +1,28 @@
+
+tomato_price = 50
+potato_price = 60
+
+
+# bracket = 2 * (2 - 2)
+# print(bracket)
+
+# addition = potato_price + tomato_price
+# print(addition)
+
+# subtraction = potato_price - tomato_price
+# print(subtraction)
+
+# multiplication = potato_price * tomato_price
+# print(multiplication)
+
+# division = potato_price / tomato_price
+# print(division)
+
+# floor_division = potato_price // tomato_price
+# print(floor_division)
+
+# modulus = potato_price % tomato_price
+# print(modulus)
+
+# Exponentiation = potato_price ** tomato_price
+# print(Exponentiation)
