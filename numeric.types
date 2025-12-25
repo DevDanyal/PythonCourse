@@ -1,0 +1,27 @@
+#numeric: int, float
+
+whole_number1 = 14
+whole_number2 = 1
+
+
+#arithmetic Operators : +, -, /, *
+
+multiply_number = whole_number1 * whole_number2
+print(multiply_number)
+
+subtract_number = whole_number1 - whole_number2
+print(subtract_number)
+
+divide_number = whole_number1 / whole_number2
+print(divide_number)
+
+add_number = whole_number1 + whole_number2
+print(add_number)
+
+whole_number9 = 536
+whole_number6 = 564
+
+add_numbers = whole_number9 + whole_number6
+print(add_numbers)
+
+greeting: str = "Hello, World!"
