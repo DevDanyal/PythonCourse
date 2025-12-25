@@ -1,0 +1,13 @@
+# shop_name: str = input("enter shop name: ")
+# manager_name: str = input("enter manager name: ")
+# manager_age: int = input("enter manager age: ")
+
+
+# print(f"the shop name is {shop_name},and the shop manager name is {manager_name},and his age is {manager_age}")
+
+
+paragraph: str = """my name is danyal,
+I read in class 7th,I am 15 years old,and 
+I want to buy HONDA CIVIC car for my dad"""
+
+print(paragraph)
