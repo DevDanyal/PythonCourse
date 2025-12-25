@@ -1,0 +1,18 @@
+db_name = "danyal"
+db_f_name = "arshad"
+db_age = 15
+db_gmail = "aidevdanyal@gmail.com"
+db_password = "danyal"
+
+
+name = input("enter your name: ")
+father = input("enter your name: ")
+# age = int(input("enter your age: "))
+# gmail = input("enter your gmail: ")
+# password = input("enter your gmail password: ")
+
+if name == db_name and father == db_f_name:
+     print("welcome! you have logged in")
+
+else:
+     print("you are not allowed to use this app")
