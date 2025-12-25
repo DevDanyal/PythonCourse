@@ -1,0 +1,11 @@
+# number = 40.99999000000000
+# print(type(number))
+
+# number = 22+3j
+# print(type(number))
+
+# classwork = False
+# print(type(classwork))
+
+# name = "danyal"
+# print(type(name))
