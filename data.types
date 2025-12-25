@@ -1,0 +1,18 @@
+#DataTypes : String, Float, Int, Bool, Dict, List, Set, Tuple, None
+
+string_data = "blood pressure"
+print(string_data)
+
+name = "danyal"
+print(type(name))
+
+
+float_number = 13.4
+print(type(float_number))
+
+
+number = 34
+print(type(number))
+
+map = False
+print(type(map))
