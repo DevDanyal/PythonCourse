@@ -1,0 +1,7 @@
+name = input("Enter Your Name: ")
+gender = input("Enter Your Gender: ")
+
+if gender == "male":
+    print("Welcome Sir!")
+else:
+    print("Welcome Madam!")
