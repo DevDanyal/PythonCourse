@@ -1,0 +1,16 @@
+a = float(input("first number: "))
+
+choice = input("Choose Operator: ")
+
+b = float(input("second number: "))
+
+if choice == "+":
+    print(int(a + b))
+elif choice == "-":
+    print(int(a - b))
+elif choice == "*":
+    print(int(a * b))
+elif choice == "/":
+    print(int(a / b))
+else:
+    print("invalid choice")
