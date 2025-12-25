@@ -1,0 +1,19 @@
+# name: str = 'Danyal'
+# city: str = 'Peshawar'
+# class_name: str = "6th"
+# print(f"My name is {name}, and I am living in {city} ,I am reading in class {class_name}")
+
+student_name = input('Enter Your Name: ')
+student_age = input('Enter Your Age in Years: ')
+
+
+print(f"Hello {student_name}, Your name is {student_name} and you are {student_age} years old.")
+
+message: str = """Hello,
+This is a multi-line string.
+It can span several lines."""
+
+poem: str = '''Roses are red
+Violets are blue'''
+
+print(message)
