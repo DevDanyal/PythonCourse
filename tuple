@@ -1,0 +1,12 @@
+# student_tuple = (1, 2, 3, 5, 5)
+# print(student_tuple)
+
+# books_set = {'urdu', 'eng', 'maths', 'urdu', 'urdu'}
+# print(books_set)
+
+# list_number = [1, 1, 2, 3]
+# print(list_number)    
+print({
+    "name" : 'Danyal',
+    16 : 16
+    })
