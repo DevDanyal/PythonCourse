@@ -1,0 +1,14 @@
+shopkeeper = "kaliwal"
+potato_price = 1100
+
+
+# if potato_price >= 1000 and potato_price <= 1200 and shopkeeper == "kaliwal":
+#     print("Purchase Potato")
+# else:
+#     print("Don't Purchase.")
+
+
+if not (potato_price <= 1000 or shopkeeper == "kaliwal"):
+    print("Purchase")
+else:
+    print("Don't Purchase.")
